@@ -1,3 +1,7 @@
 module github.com/estefania552/backend-app-itq
 
-require()
+go 1.12 
+
+require(
+
+)
