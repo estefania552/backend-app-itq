@@ -1,2 +1,2 @@
 # backend-app-itq
-Red social ITQ
+Social Network itq
